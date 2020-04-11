@@ -1,0 +1,6 @@
+[submodule "apos-backend"]
+	path = apos-backend
+	url = git@github.com:SocialSaturdayCoding/Apos-Backend.git
+[submodule "apos-frontend"]
+	path = apos-frontend
+	url = git@github.com:SocialSaturdayCoding/Apos-Frontend.git
